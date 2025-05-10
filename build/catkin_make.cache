@@ -1,0 +1,2 @@
+Mid360_simulation_plugin/livox_laser_simulation:livox_ros_driver2
+-DROS_EDITION=ROS1 -DCATKIN_DEVEL_PREFIX=/home/ris/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ris/catkin_ws/install -G Unix Makefiles
